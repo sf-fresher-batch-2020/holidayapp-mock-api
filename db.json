@@ -1,16 +1,9 @@
 {
-    "users": [
+    "users": [ { "id": 1, "name":"Admin", "email":"admin@gmail.com", 
+        "password":"admin#123", "role": "ADMIN"
+    }
 
     ],
-    "accounts": [
-
-    ],
-    "transactions": [
-
-    ],
-    "payees":[
-        
-    ]
-    
-
+    "destination":[],
+    "packages":[]
 }
